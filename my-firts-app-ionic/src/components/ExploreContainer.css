@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  position: relative;
+  padding: 50px;
+  background-color: #1E90FF;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container strong {
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+.container p {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 20px 0;
+}
+
+.container a {
+  text-decoration: none;
+  color: #FFD700;
+  font-weight: bold;
+}
